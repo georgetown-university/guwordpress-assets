@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <!-- Channel information -->
+    <title>Georgetown University WordPress Announcements</title>
+    <link>https://uis.georgetown.edu</link>
+    <description>
+      List of announcements for GU-managed WordPress sites.
+    </description>
+
+    <!-- Test announcement 1 -->
+    <item>
+      <title>Test Announcement 1</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Tue, 12 Jun 2018 11:49:00 EDT</pubDate>
+      <description>
+        <![CDATA[
+          Description for your content, <em>now with HTML tags!</em>
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test announcement 2 -->
+    <item>
+      <title>All About Fish</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Tue, 12 Jun 2018 12:39:00 EDT</pubDate>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>One Fish</li>
+            <li>Two Fish</li>
+            <li>Red Fish</li>
+            <li>Blue Fish</li>
+          </ul>
+        ]]>
+      </description>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <!-- Channel information -->
+    <title>GU WordPress Test Content</title>
+    <link>https://uis.georgetown.edu</link>
+    <description>
+      List of announcements for GU-managed WordPress sites.
+    </description>
+
+    <!-- Test content 1 -->
+    <item>
+      <title>The Twelfth Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Wed, 25 Dec 2013 12:12:12 EDT</pubDate>
+      <description>
+        <![CDATA[
+          <p><strong>Don't be lasagna.</strong> It's all right up to the eyebrows. Then it goes haywire. I'm Scottish. I can complain about things now. I can really complain about things now. Are you taller? Why? Do you have to reach a high shelf? The Doctor. Nosey parker. No sir. Thirteen! Come on, Team Not Dead. You see when I started, all those years ago, I was just running. I called myself the Doctor but it was just a name. Then I went to Skaro. And I met you lot. And I understood who I was. Be a pal and tell me, Am I a good man?</p>
+          <p>I don't think that I'm a hugging person now. No sir. Thirteen! Soon, I expect. Or later. One of those. Your hips are fine, you're built like a man! Shut up! Just shut up, shut up, shut up, shuttity up up up! Please just... just see me. Don't be lasagna. My personal plan is that a thing will probably happen quite soon. I don't need a sword. Because I'm the Doctor ... and this is my spoon. He was dead already, I'm saving us. Follow me, and run! Sorry, I'm going to have to relieve you of your pet. Shut up, I was talking to the horse.</p>
+          <p>Can I talk about planets now? Be a pal and tell me, Am I a good man? My carer. She cares so I don't have to. I am totally against bantering. These are attack eyebrows. You could take bottle tops off with these. Old ladies die all the time. It's practically in the job description. Mortuaries and larders. Easiest things to break out of. Shush. Shut it, Hoodie! You realise one of us is lying about our basic programming. And I think we both know which one that is. Please just... just see me. Soon, I expect. Or later. One of those.</p>
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test content 2 -->
+    <item>
+      <title>The First Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Sat, 23 Nov 1963 01:01:01 EDT</pubDate>
+      <description>
+        <![CDATA[
+          <p>Eh? Doctor who? What's he talking about…? The least important things, sometimes my dear boy, lead to the greatest discoveries. It all started out as a mild curiosity in the junkyard, and now it's turned out to be quite a great spirit of adventure. You cannot rewrite history! Not one line! Right! So stop dilly-dallying, and cross it! My ship…my TARDIS… We are not of this race. We are not of this earth. Susan and I are wanderers in the fourth dimension of time and space. ...history sometimes gives us a terrible shock, and that is because we don't quite fully understand. Why should we? After all, we're too small to realise its final pattern. Therefore don't try and judge it from where you stand.</p>
+          <p>We are always in trouble! Isn't it extraordinary—it follows us everywhere. Our lives are important—at least to us—as we see, so we learn…Our destiny is in the stars , so let's go and search for it. Yes? What is it? What do you want? My writing gets worse and worse. Dear, dear, dear, dear, dear. One day, I shall come back. Yes, I shall come back. Until then, there must be no regrets, no tears, no anxieties. Just go forward in all your beliefs and prove to me that I am not mistaken in mine. Goodbye Susan. Goodbye my dear.</p>
+          <p>Eh? Doctor who? What's he talking about…? As we learn about each other, so we learn about ourselves. Your ideas are too narrow and crippled. I am a citizen of the universe and a gentleman to boot. If you could touch the alien sand and hear the cries of strange birds, and watch them wheel in another sky, would that satisfy you? ...history sometimes gives us a terrible shock, and that is because we don't quite fully understand. Why should we? After all, we're too small to realise its final pattern. Therefore don't try and judge it from where you stand.</p>
+        ]]>
+      </description>
+    </item>
+
+  </channel>
+</rss>
