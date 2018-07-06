@@ -23,5 +23,6 @@ Each item in an RSS feed has the following structure:
       CONTENT GOES HERE. <em>HTML OPTIONAL.</em>
     ]]>
   </description>
+  <enclosure url="IMAGE_URL_HERE.JPG" length="###" type="image/jpeg" />
 </item>
 ```
