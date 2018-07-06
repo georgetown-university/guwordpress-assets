@@ -10,31 +10,146 @@
 
     <!-- Test content 1 -->
     <item>
-      <title>The Twelfth Doctor</title>
+      <title>The First Doctor</title>
       <link>https://uis.georgetown.edu</link>
-      <pubDate>Wed, 25 Dec 2013 12:12:12 EDT</pubDate>
+      <pubDate>Sat, 23 Nov 1963 01:01:01 EDT</pubDate>
       <description>
         <![CDATA[
-          <p><strong>Don't be lasagna.</strong> It's all right up to the eyebrows. Then it goes haywire. I'm Scottish. I can complain about things now. I can really complain about things now. Are you taller? Why? Do you have to reach a high shelf? The Doctor. Nosey parker. No sir. Thirteen! Come on, Team Not Dead. You see when I started, all those years ago, I was just running. I called myself the Doctor but it was just a name. Then I went to Skaro. And I met you lot. And I understood who I was. Be a pal and tell me, Am I a good man?</p>
-          <p>I don't think that I'm a hugging person now. No sir. Thirteen! Soon, I expect. Or later. One of those. Your hips are fine, you're built like a man! Shut up! Just shut up, shut up, shut up, shuttity up up up! Please just... just see me. Don't be lasagna. My personal plan is that a thing will probably happen quite soon. I don't need a sword. Because I'm the Doctor ... and this is my spoon. He was dead already, I'm saving us. Follow me, and run! Sorry, I'm going to have to relieve you of your pet. Shut up, I was talking to the horse.</p>
-          <p>Can I talk about planets now? Be a pal and tell me, Am I a good man? My carer. She cares so I don't have to. I am totally against bantering. These are attack eyebrows. You could take bottle tops off with these. Old ladies die all the time. It's practically in the job description. Mortuaries and larders. Easiest things to break out of. Shush. Shut it, Hoodie! You realise one of us is lying about our basic programming. And I think we both know which one that is. Please just... just see me. Soon, I expect. Or later. One of those.</p>
+          Eh? Doctor who? What's he talking about…? The least important things, sometimes my dear boy, lead to the greatest discoveries. It all started out as a mild curiosity in the junkyard, and now it's turned out to be quite a great spirit of adventure. You cannot rewrite history! Not one line! Right! So stop dilly-dallying, and cross it! My ship…my TARDIS… We are not of this race. We are not of this earth. Susan and I are wanderers in the fourth dimension of time and space. ...history sometimes gives us a terrible shock, and that is because we don't quite fully understand. Why should we? After all, we're too small to realise its final pattern. Therefore don't try and judge it from where you stand.
         ]]>
       </description>
     </item>
 
     <!-- Test content 2 -->
     <item>
-      <title>The First Doctor</title>
+      <title>The Second Doctor</title>
       <link>https://uis.georgetown.edu</link>
-      <pubDate>Sat, 23 Nov 1963 01:01:01 EDT</pubDate>
+      <pubDate>Sat, 29 Oct 1966 02:02:02 EDT</pubDate>
       <description>
         <![CDATA[
-          <p>Eh? Doctor who? What's he talking about…? The least important things, sometimes my dear boy, lead to the greatest discoveries. It all started out as a mild curiosity in the junkyard, and now it's turned out to be quite a great spirit of adventure. You cannot rewrite history! Not one line! Right! So stop dilly-dallying, and cross it! My ship…my TARDIS… We are not of this race. We are not of this earth. Susan and I are wanderers in the fourth dimension of time and space. ...history sometimes gives us a terrible shock, and that is because we don't quite fully understand. Why should we? After all, we're too small to realise its final pattern. Therefore don't try and judge it from where you stand.</p>
-          <p>We are always in trouble! Isn't it extraordinary—it follows us everywhere. Our lives are important—at least to us—as we see, so we learn…Our destiny is in the stars , so let's go and search for it. Yes? What is it? What do you want? My writing gets worse and worse. Dear, dear, dear, dear, dear. One day, I shall come back. Yes, I shall come back. Until then, there must be no regrets, no tears, no anxieties. Just go forward in all your beliefs and prove to me that I am not mistaken in mine. Goodbye Susan. Goodbye my dear.</p>
-          <p>Eh? Doctor who? What's he talking about…? As we learn about each other, so we learn about ourselves. Your ideas are too narrow and crippled. I am a citizen of the universe and a gentleman to boot. If you could touch the alien sand and hear the cries of strange birds, and watch them wheel in another sky, would that satisfy you? ...history sometimes gives us a terrible shock, and that is because we don't quite fully understand. Why should we? After all, we're too small to realise its final pattern. Therefore don't try and judge it from where you stand.</p>
+          Logic, my dear Zoe, merely enables one to be wrong with authority. When I say run, run. ...RUN! I hate computers and refuse to be bullied by them. Let's go in! Jamie, remind me to give you a lesson in tying knots, sometime. Goodbye... Fancypants! I don't like it. People spend all their time making nice things and then other people come along and break them! You've had this place redecorated, haven't you? Hmm, don't like it. The best thing about a machine that makes sense is you can very easily make it turn out nonsense.
         ]]>
       </description>
     </item>
 
+    <!-- Test content 3 -->
+    <item>
+      <title>The Third Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Sat, 3 Jan 1970 03:03:03 EDT</pubDate>
+      <description>
+        <![CDATA[
+          A straight line may be the shortest distance between two points, but it is by no means the most interesting. I had to face my fear...that was more important than just going on living.... Jo, look. That's Skaro. Pure mathematics can not lie! Smith. Doctor John Smith. Jo, did you fail Latin as well as science? Courage isn’t a matter of not being frightened, it’s being afraid and doing what you have to do anyway. Reverse the polarity of… Yes, well, the definition of the word 'humanity' is always a rather complex question, isn’t it?
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test content 4 -->
+    <item>
+      <title>The Fourth Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Sat, 8 Jun 1974 04:04:04 EDT</pubDate>
+      <description>
+        <![CDATA[
+          Well, my Doctorate is purely honorary and Harry is only qualified to work on sailors. You may be a doctor. But I'm the Doctor. The definite article, you might say. I might've been saying something important. I was saying something important! What?! Come out. And don't touch anything! Are you listening to me? Hello-o-o-o. It may be irrational of me, but human beings are my favorite species. Would you like a jelly baby? Come on! You're standing on my scarf. The trouble with computers, of course, is that they're very sophisticated idiots. They do exactly what you tell them at amazing speed. Even if you order them to kill you. So if you do happen to change your mind, it's very difficult to stop them from obeying the original order. But not impossible.
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test content 5 -->
+    <item>
+      <title>The Fifth Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Sat, 21 Mar 1981 05:05:05 EDT</pubDate>
+      <description>
+        <![CDATA[
+          It's times like this I wish I still had my scarf. Well, it wouldn't be cricket. For some people, small, beautiful events are what life is all about! You may disguise your features but you can never disguise your intent. Dreams are important…never underestimate them. Adric? There's always something to look at if you open your eyes! Safety precaution. I'm allergic to certain gases in the praxis range of the spectrum. If the gas is present, the celery turns purple… I eat the celery. If nothing else, I'm sure it's good for my teeth.
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test content 6 -->
+    <item>
+      <title>The Sixth Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Fri, 16 Mar 1984 06:06:06 EDT</pubDate>
+      <description>
+        <![CDATA[
+          Planets come and go. Stars perish. Matter disperses, coalesces, forms into other patterns, other worlds. Nothing can be eternal. Did I? It must be the carrot juice making me colour blind! It's all right for you, Peri. You've only got one life. You'll age here in the TARDIS and then die. But me, I shall go on regenerating until all my lives are spent. A little gratitude wouldn't irretrievably damage my ego. A knight of the GRAND ORDER OF OBERON! Only I would be stupid enough to attack such a person!
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test content 7 -->
+    <item>
+      <title>The Seventh Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Mon, 7 Sep 1987 07:07:07 EDT</pubDate>
+      <description>
+        <![CDATA[
+          Don't worry, Brigadier. People will be shooting at you soon. Excellent. Blow up that vehicle. But there are three rules! One: I'm in charge. Two: I'm not 'the Professor', I'm the Doctor! And the third... Well, I'll think up the third by the time we get back to Perivale. Think about me when you're living your life one day after another, all in a neat pattern. Think about the homeless traveller and his old police box, with his days like crazy paving. Every great decision creates ripples. Like a huge boulder dropping in a lake. The ripples merge and rebound off the banks in unforseeable ways. The heavier the decision, the larger the waves, the more uncertain the consequences.
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test content 8 -->
+    <item>
+      <title>The Eighth Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Mon, 27 May 1996 08:08:08 EDT</pubDate>
+      <description>
+        <![CDATA[
+          Don't be sad Grace. You'll do great things. I'm a Doctor… though probably not the one that you were expecting Eight minutes is ages. What if I get bored? Give me knitting. Grace, I came back to life before your eyes. I held back death. Look, I can't make your dream come true forever, but I can make it come true today. How can you miss me? I'm easy to find. I'm the guy with two hearts, remember? I love humans. Always seeing patterns in things that aren't there. Jelly baby? The universe hangs by such a delicate thread of coincidences that it would be useless to meddle with it, unless like me you're a Time Lord.
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test content 9 -->
+    <item>
+      <title>The Ninth Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Sat, 26 Mar 2005 09:09:09 EDT</pubDate>
+      <description>
+        <![CDATA[
+          Excuse me, do you mind not farting while I'm saving the world? I think you need a doctor. And I'm looking for a blonde in a Union Jack. A specific one, mind, I didn't just wake up this morning with a craving. t's called the TARDIS, this thing. T-A-R-D-I-S. That's Time And Relative Dimension In Space. That’s okay. Culture shock. Happens to the best of us. Do you wanna come with me? 'Cause if you do, then I should warn you — you're gonna see all sorts of things. Ghosts from the past. Aliens from the future. The day the Earth died in a ball of flame. It won't be quiet, it won't be safe, and it won't be calm. But I'll tell you what it will be: The trip of a lifetime!
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test content 10 -->
+    <item>
+      <title>The Tenth Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Sat, 18 Jun 2005 10:10:10 EDT</pubDate>
+      <description>
+        <![CDATA[
+          Black tie...Whenever I wear this, something bad always happens. I'd call you a genius, except I'm in the room. I'm the Doctor, I can save the world with a kettle and some string! And look! I'm wearing a vegetable! People assume that time is a strict progression of cause-and-effect... but actually, from a non-linear, non-subjective viewpoint, it's more like a big ball of wibbly-wobbly... timey-wimey... stuff. Allons-y! I'm Dr. James McCrimmon from the township of Balamory. River, you know my name. You whispered my name in my ear! There's only one reason I would ever tell anyone my name. There's only one time I could...
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test content 10 -->
+    <item>
+      <title>The Eleventh Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Fri, 1 Jan 2010 11:11:11 EDT</pubDate>
+      <description>
+        <![CDATA[
+          Father Christmas. Santa Claus. Or, as I’ve always known him, Jeff. Usually called 'The Doctor.' Or 'The Caretaker.' Or 'Get off this planet.' Though, strictly speaking, that probably isn't a name. No idea. Just do what I do: hold tight and pretend it's a plan. Yes, well, it's a brilliant noise. I love that noise. Goodbye, Clara. Please tell me I didn't get old. Anything but old. I was young! Oh... is he grey? Thank you, Strax. And if I'm ever in need of advice from a psychotic potato dwarf, you'll certainly be the first to know.
+        ]]>
+      </description>
+    </item>
+
+    <!-- Test content 12 -->
+    <item>
+      <title>The Twelfth Doctor</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Wed, 25 Dec 2013 12:12:12 EDT</pubDate>
+      <description>
+        <![CDATA[
+          Don't be lasagna. It's all right up to the eyebrows. Then it goes haywire. I'm Scottish. I can complain about things now. I can really complain about things now. Are you taller? Why? Do you have to reach a high shelf? The Doctor. Nosey parker. No sir. Thirteen! Come on, Team Not Dead. You see when I started, all those years ago, I was just running. I called myself the Doctor but it was just a name. Then I went to Skaro. And I met you lot. And I understood who I was. Be a pal and tell me, Am I a good man?
+        ]]>
+      </description>
+    </item>
   </channel>
 </rss>
