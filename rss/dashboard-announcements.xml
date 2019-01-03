@@ -3,13 +3,14 @@
   <channel>
     <!-- Channel information -->
     <title>Announcements from Web Services</title>
+    <link>http://webservices.georgetown.edu</link>
     <description>
       List of announcements for GU-managed WordPress sites.
     </description>
 
     <item>
       <title>January WordPress office hours</title>
-      <link>#</link>
+      <link></link>
       <pubDate>Thu, 3 Jan 12:38:00 EDT</pubDate>
       <description>
         <![CDATA[
@@ -19,12 +20,12 @@
     </item>
 
         <item>
-      <title>WordPress at Georgetown</title>
-      <link>#</link>
+      <title>Getting help with WordPress</title>
+      <link>https://sites.georgetown.edu/</link>
       <pubDate>Thu, 3 Jan 12:37:30 EDT</pubDate>
       <description>
         <![CDATA[
-        <p>Getting started with WordPress at Georgetown? Take a look at our <a href="https://sites.georgetown.edu/">documentation site</a> for best practices and editing help.</p>
+        <p>Getting started with our WordPress platform at Georgetown? Or have a specific question? Take a look at our <a href="https://sites.georgetown.edu/">documentation site</a> for best practices and editing help.</p>
         ]]>
       </description>
     </item>
