@@ -3,7 +3,6 @@
   <channel>
     <!-- Channel information -->
     <title>Announcements from Web Services</title>
-    <link>http://webservices.georgetown.edu</link>
     <description>
       List of announcements for GU-managed WordPress sites.
     </description>
@@ -15,6 +14,17 @@
       <description>
         <![CDATA[
         <p>Web Services will be hosting our monthly WordPress-specific office hours on Tuesday January 8, 3-5 p.m. in Car Barn 101. Drop in anytime to chat about migration, accessibility, layouts, or anything else you'd like to discuss regarding your Georgetown WordPress website. See you there!</p>
+        ]]>
+      </description>
+    </item>
+
+        <item>
+      <title>WordPress at Georgetown</title>
+      <link>#</link>
+      <pubDate>Thu, 3 Jan 12:37:30 EDT</pubDate>
+      <description>
+        <![CDATA[
+        <p>Getting started with WordPress at Georgetown? Take a look at our <a href="https://sites.georgetown.edu/">documentation site</a> for best practices and editing help.</p>
         ]]>
       </description>
     </item>
