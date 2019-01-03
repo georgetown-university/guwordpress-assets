@@ -2,14 +2,15 @@
 <rss version="2.0">
   <channel>
     <!-- Channel information -->
-    <title>Georgetown University WordPress Announcements</title>
-    <link>https://uis.georgetown.edu</link>
+    <title>Announcements from Web Services</title>
+    <link>http://webservices.georgetown.edu</link>
     <description>
       List of announcements for GU-managed WordPress sites.
     </description>
 
     <item>
-      <title>January WordPress Office Hours</title>
+      <title>January WordPress office hours</title>
+      <link>#</link>
       <pubDate>Thu, 3 Jan 12:38:00 EDT</pubDate>
       <description>
         <![CDATA[
@@ -18,5 +19,14 @@
       </description>
     </item>
 
+    <item>
+      <title>Report an issue with our WordPress platform!</title>
+      <link>https://docs.google.com/forms/d/e/1FAIpQLScn93LePDSvd_DjuFtiiSKl6tZiJSYKU02oGMyOsMjEk7FP7w/viewform</link>
+      <pubDate>Thu, 3 Jan 12:37:00 EDT</pubdate>
+      <description>
+        <![CDATA[
+        <p>Have you encountered an issue while working on your site? Fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScn93LePDSvd_DjuFtiiSKl6tZiJSYKU02oGMyOsMjEk7FP7w/viewform">Google Form</a> and we'll investigate.</p>
+        ]]>
+      </description>
   </channel>
 </rss>
