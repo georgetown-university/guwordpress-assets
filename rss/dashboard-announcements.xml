@@ -8,31 +8,13 @@
       List of announcements for GU-managed WordPress sites.
     </description>
 
-    <!-- Test announcement 1 -->
     <item>
-      <title>Sweet Tooth</title>
-      <link>https://uis.georgetown.edu</link>
-      <pubDate>Tue, 12 Jun 2018 11:49:00 EDT</pubDate>
+      <title>January WordPress Office Hours</title>
+      <link>https://webservices.georgetown.edu</link>
+      <pubDate>Thu, 3 Jan 12:38:00 EDT</pubDate>
       <description>
         <![CDATA[
-        <strong>Chocolate cake jelly beans!</strong> Pudding tootsie roll sesame snaps candy canes chocolate bar chupa chups cake. Lollipop tootsie roll jelly fruitcake candy canes macaroon chocolate bar gummies marshmallow. Toffee sugar plum soufflé bonbon topping. Bonbon jujubes chocolate cake danish liquorice gummi bears muffin.
-        ]]>
-      </description>
-    </item>
-
-    <!-- Test announcement 2 -->
-    <item>
-      <title>All About Fish</title>
-      <link>https://uis.georgetown.edu</link>
-      <pubDate>Tue, 12 Jun 2018 12:39:00 EDT</pubDate>
-      <description>
-        <![CDATA[
-          <ul>
-            <li>One Fish</li>
-            <li>Two Fish</li>
-            <li>Red Fish</li>
-            <li>Blue Fish</li>
-          </ul>
+        <p>Web Services will be hosting our monthly WordPress-specific office hours on Tuesday January 8, 3-5 p.m. in Car Barn 101. Drop in anytime to chat about migration, accessibility, layouts, or anything else you'd like to discuss regarding your Georgetown WordPress website. See you there!</p>
         ]]>
       </description>
     </item>
