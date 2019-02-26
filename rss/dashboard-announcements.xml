@@ -8,7 +8,29 @@
       List of announcements for GU-managed WordPress sites.
     </description>
 
+      <item>
+      <title>Starting in March: office hours every Tuesday!</title>
+      <link>https://calendar.google.com/calendar/selfsched?sstoken=UVAzbEhMNWEya0tMfGRlZmF1bHR8YmRjY2VmZWZjM2ZjZWZkYjczZjkyYWE1Y2RhMjFkNDc</link>
+      <pubDate>Tue, 26 Feb 17:56:00 EDT</pubDate>
+      <description>
+        <![CDATA[
+        <p>Web Services is now hosting our WordPress-specific office hours every Tuesday, 2:30-3:30pm! <a href="https://calendar.google.com/calendar/selfsched?sstoken=UVAzbEhMNWEya0tMfGRlZmF1bHR8YmRjY2VmZWZjM2ZjZWZkYjczZjkyYWE1Y2RhMjFkNDc">Sign up for an appointment slot here</a> (in the Description field, add a few things you want to chat about). Every other week the location will be Car Barn 101, and the other weeks the location will be on Zoom (the appointment slot you sign up for will indicate the location). We’ll be on hand to chat about migration, accessibility, layouts, or anything else you'd like to discuss regarding your Georgetown WordPress website. See you there!</p>
+        ]]>
+      </description>
+    </item>
+
     <item>
+    <title>March and April trainings are now live!</title>
+    <link></link>
+    <pubDate>Tue, 26 Feb 17:56:00 EDT</pubDate>
+    <description>
+      <![CDATA[
+      <p>To sign up, look for an email from us with the subject line “Sign up for WordPress training.” The email will have dates and links to sign up for training. If you didn’t receive our email and you’re working on a migration (or will soon be working on a migration), let us know.</p>
+      ]]>
+    </description>
+  </item>
+
+   <!-- <item>
       <title>February WordPress office hours</title>
       <link></link>
       <pubDate>Wed, 23 Jan 13:23:00 EDT</pubDate>
@@ -17,7 +39,7 @@
         <p>Web Services will be hosting our monthly WordPress-specific office hours on Tuesday February 26, 3-5 p.m. in Car Barn 101. <a href="https://calendar.google.com/calendar/selfsched?sstoken=UVAzbEhMNWEya0tMfGRlZmF1bHR8YmRjY2VmZWZjM2ZjZWZkYjczZjkyYWE1Y2RhMjFkNDc">Sign up for an appointment slot here</a> (in the Description field, add a few things you want to chat about). We’ll be on hand to chat about migration, accessibility, layouts, or anything else you'd like to discuss regarding your Georgetown WordPress website. See you there!</p>
         ]]>
       </description>
-    </item>
+    </item> //-->
 
         <item>
       <title>Getting help with WordPress</title>
