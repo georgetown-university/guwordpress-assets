@@ -9,6 +9,17 @@
     </description>
     
      <item>
+      <title>New Semester Change Moratorium</title>
+      <link>https://sites.georgetown.edu/announcements/</link>
+      <pubDate>Wed, 21 Aug 10:00:00 EDT</pubDate>
+      <description>
+        <![CDATA[
+        <p>Due to a UIS-wide hold on changes during the start of the new semester, we will not be able to push new features or launch sites between August 21 and September 9 except in an emergency.</p>
+        ]]>
+      </description>
+    </item>
+
+     <item>
     <title>Online WordPress training is live!</title>
     <link>https://sites.georgetown.edu/announcements/wordpress-training-now-available-online/</link>
     <pubDate>Tue, 26 Feb 17:56:00 EDT</pubDate>
@@ -18,18 +29,6 @@
       ]]>
     </description>
   </item>
-
-
-    <item>
-      <title>Commencement Change Moratorium</title>
-      <link>https://sites.georgetown.edu/announcements/change-moratorium/</link>
-      <pubDate>Fri, 12 Apr 10:00:00 EDT</pubDate>
-      <description>
-        <![CDATA[
-        <p>Due to a UIS-wide hold on changes during finals/commencement, we will not be able to push new features or launch sites between May 1 and May 20 except in an emergency.</p>
-        ]]>
-      </description>
-    </item>
     
       <item>
       <title>Office hours every Tuesday!</title>
@@ -41,16 +40,6 @@
         ]]>
       </description>
     </item>
-   <!-- <item>
-      <title>February WordPress office hours</title>
-      <link></link>
-      <pubDate>Wed, 23 Jan 13:23:00 EDT</pubDate>
-      <description>
-        <![CDATA[
-        <p>Web Services will be hosting our monthly WordPress-specific office hours on Tuesday February 26, 3-5 p.m. in Car Barn 101. <a href="https://calendar.google.com/calendar/selfsched?sstoken=UVAzbEhMNWEya0tMfGRlZmF1bHR8YmRjY2VmZWZjM2ZjZWZkYjczZjkyYWE1Y2RhMjFkNDc">Sign up for an appointment slot here</a> (in the Description field, add a few things you want to chat about). We’ll be on hand to chat about migration, accessibility, layouts, or anything else you'd like to discuss regarding your Georgetown WordPress website. See you there!</p>
-        ]]>
-      </description>
-    </item> //-->
 
         <item>
       <title>Getting help with WordPress</title>
