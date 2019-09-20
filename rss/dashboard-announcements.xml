@@ -7,17 +7,6 @@
     <description>
       List of announcements for GU-managed WordPress sites.
     </description>
-    
-     <item>
-      <title>New Semester Change Moratorium</title>
-      <link>https://sites.georgetown.edu/announcements/</link>
-      <pubDate>Wed, 21 Aug 10:00:00 EDT</pubDate>
-      <description>
-        <![CDATA[
-        <p>Due to a UIS-wide hold on changes during the start of the new semester, we will not be able to push new features or launch sites between August 21 and September 9 except in an emergency.</p>
-        ]]>
-      </description>
-    </item>
 
      <item>
     <title>Online WordPress training is live!</title>
