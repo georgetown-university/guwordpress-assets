@@ -8,17 +8,6 @@
       List of announcements for GU-managed WordPress sites.
     </description>
 
-<item>
-    <title>Deployment issue on October 22</title>
-    
-    <pubDate>Tue, 22 Oct 22:28:00 EDT</pubDate>
-    <description>
-      <![CDATA[
-      <p>As of Tuesday October 22, you may see extra sections when you edit a page, regardless of whether the page is a homepage, default page, or landing page: Landing Page Lead Block, Home Page Lead Block, Highlighted Content, and Content Permissions. These sections only appear on the edit screen and do not affect the front-end display of your site's pages. We'll be working on a fix as soon as possible, but in the meantime, do not edit these sections in any way, especially the Content Permissions section. You can always email us at webservices@georgetown.edu with any questions or concerns. Thank you for your patience!</p>
-      ]]>
-    </description>
-  </item>
-
      <item>
     <title>Online WordPress training is live!</title>
     <link>https://sites.georgetown.edu/announcements/wordpress-training-now-available-online/</link>
