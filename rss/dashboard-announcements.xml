@@ -7,7 +7,18 @@
     <description>
       List of announcements for GU-managed WordPress sites.
     </description>
-
+    
+<item>
+    <title>WordPress Release Notes</title>
+    <link>https://sites.georgetown.edu/release-notes/</link>
+    <pubDate>Thu, 27 Feb 17:56:00 EDT</pubDate>
+    <description>
+      <![CDATA[
+      <p>Release Notes are updates from Web Services about the new features, updated features, and bug fixes we’ve been working on recently. These are organized by date and will be updated as we work on new things. Keep an eye on this area to stay up to date with the most recent updates to the WordPress platform.</p>
+      ]]>
+    </description>
+  </item>
+   
      <item>
     <title>Online WordPress training is live!</title>
     <link>https://sites.georgetown.edu/announcements/wordpress-training-now-available-online/</link>
