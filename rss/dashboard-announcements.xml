@@ -14,14 +14,14 @@
     <pubDate>Thu, 27 Feb 17:56:00 EDT</pubDate>
     <description>
       <![CDATA[
-      <p>Release Notes are updates from Web Services about the new features, updated features, and bug fixes we’ve been working on recently. Our <a href="https://sites.georgetown.edu/release-notes/">WordPress Release Notes</a> archive is organized by date and will be updated as we work on new things. Keep an eye on this area to stay up to date with the most recent updates to the WordPress platform.</p>
+      <p>Release Notes are updates from Web Services about the new features, updated features, enhancements and bug fixes we’ve been working on recently. We have two sources of release notes, depending on the them you are using These archives are organized by date and will be updated as we work on new things. <a href="https://sites.georgetown.edu/release-notes/">Whitehaven Nu Release Notes</a> <a href="https://sites.georgetown.edu/1789-documentation/tag/release-notes/">1789 Release Notes</a> Keep an eye on this area to stay up to date with the most recent updates to the WordPress platform.</p>
       ]]>
     </description>
   </item>
    
      <item>
-    <title>Online WordPress training is live!</title>
-    <link>https://sites.georgetown.edu/announcements/wordpress-training-now-available-online/</link>
+    <title>Online WordPress Training</title>
+    <link>https://sites.georgetown.edu/guidelines-tools/online-wordpress-training/</link>
     <pubDate>Tue, 26 Feb 17:56:00 EDT</pubDate>
     <description>
       <![CDATA[
@@ -32,11 +32,11 @@
     
       <item>
       <title>Office hours every Tuesday!</title>
-      <link>https://calendar.google.com/calendar/selfsched?sstoken=UVAzbEhMNWEya0tMfGRlZmF1bHR8YmRjY2VmZWZjM2ZjZWZkYjczZjkyYWE1Y2RhMjFkNDc</link>
+      <link>https://calendar.google.com/calendar/u/0/appointments/AcZssZ2TdVMFmL6JsSKHIOQwD5p4d97IIPaqmmWUJFQ=</link>
       <pubDate>Tue, 26 Feb 17:56:00 EDT</pubDate>
       <description>
         <![CDATA[
-        <p>Web Services hosts WordPress-specific office hours every Tuesday, 2:30-3:30pm. <a href="https://calendar.google.com/calendar/selfsched?sstoken=UVAzbEhMNWEya0tMfGRlZmF1bHR8YmRjY2VmZWZjM2ZjZWZkYjczZjkyYWE1Y2RhMjFkNDc">Sign up for an appointment slot here</a> (in the Description field, add a few things you want to chat about). Every other week the location will be Car Barn 101, and the other weeks the location will be on Zoom (the appointment slot you sign up for will indicate the location). We’ll be on hand to chat about migration, accessibility, layouts, or anything else you'd like to discuss regarding your Georgetown WordPress website. See you there!</p>
+        <p>Web Services hosts WordPress-specific office hours every Tuesday, 2:30-3:30pm. <a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ2TdVMFmL6JsSKHIOQwD5p4d97IIPaqmmWUJFQ=">Sign up for an appointment slot here</a> (in the Description field, add a few things you want to chat about and what page(s) you want to discuss). All appointments will be on Zoom. We’ll be on hand to chat about migration, best practices, layouts, or anything else you'd like to discuss regarding your Georgetown WordPress website. In addition, we offer <a href="https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUMtNklFalEtOXdlfGRlZmF1bHR8MTU3NzlhZjBmM2NhZjEwOWJlZjAxMGFiMTlkM2FiNDA">accessibility office hours</a> where you can discuss your accessibility-related questions See you there!</p>
         ]]>
       </description>
     </item>
@@ -47,7 +47,7 @@
       <pubDate>Thu, 3 Jan 12:37:30 EDT</pubDate>
       <description>
         <![CDATA[
-        <p>Getting started with our WordPress platform at Georgetown? Or have a specific question? Take a look at our <a href="https://sites.georgetown.edu/">documentation site</a> for best practices and editing help.</p>
+        <p>Getting started with our WordPress platform at Georgetown? Or have a specific question? Take a look at our <a href="https://sites.georgetown.edu/">documentation site</a> for best practices and editing help. We also have a handy monthly newsletter &mdash; <em>The Cache</em> with tips and tricks. <a href="https://sites.georgetown.edu/updates/the-cache/">See our archive and signup!</a></p>
         ]]>
       </description>
     </item>
