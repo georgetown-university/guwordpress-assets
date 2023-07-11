@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <!-- Channel information -->
+    <title>GU WordPress Test Content</title>
+    <link>https://uis.georgetown.edu</link>
+    <description>
+      List of announcements for GU-managed WordPress sites.
+    </description>
+
+    <!-- Test content 1 -->
+    <item>
+      <title>Pretextual Dialectic Theory</title>
+      <link>https://uis.georgetown.edu</link>
+      <pubDate>Sat, 23 Nov 1963 01:01:01 EDT</pubDate>
+      <description>
+        <![CDATA[
+          If one examines neotextual situationism, one is faced with a choice: either accept cultural dematerialism or conclude that the task of the poet is social comment. The subject is contextualised into a pretextual dialectic theory that includes truth as a whole. “Society is intrinsically a legal fiction,” says Lyotard; however, according to Scuglia[1] , it is not so much society that is intrinsically a legal fiction, but rather the futility, and some would say the paradigm, of society. In a sense, the main theme of the works of Pynchon is the bridge between class and society. Subtextual deconstructivist theory suggests that language serves to exploit minorities.
+        ]]>
+      </description>
+      <enclosure url="https://georgetown-university.github.io/guwordpress-assets/images/gu-students-study.jpg" length="249912" type="image/jpeg" />
+    </item>
+
+  </channel>
+</rss>
