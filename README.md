@@ -8,6 +8,7 @@ The following RSS feeds are housed in this repository:
 
 * __Dashboard Announcements__ (updated as needed and displayed on the WP admin dashboard)
 * __Test Content__ (static, for use in automated testing)
+* __Test Content, single__ (static, for use in automated testing)
 
 ### Feed items
 
