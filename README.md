@@ -14,16 +14,19 @@ The following RSS feeds are housed in this repository:
 
 Each item in an RSS feed has the following structure:
 
-```
+```xml
 <item>
   <title>TITLE GOES HERE</title>
   <link>https://uis.georgetown.edu</link>
-  <pubDate>Tue, 31 Jul 2018 01:01:01 EDT</pubDate>
+  <date>Tue, 31 Jul 2018 01:01:01 EDT</pubDate>
   <description>
     <![CDATA[
       CONTENT GOES HERE. <em>HTML OPTIONAL.</em>
     ]]>
   </description>
-  <enclosure url="IMAGE_URL_HERE.JPG" length="###" type="image/jpeg" />
 </item>
 ```
+## Changelog
+
+### 2025-01-24
+* older XML `<item>` entities included `<pubDate>`; this has been renamed to `<date>`. 

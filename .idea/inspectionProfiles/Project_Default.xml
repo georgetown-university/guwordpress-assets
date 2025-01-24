@@ -1,0 +1,10 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PhpUnused" enabled="true" level="WEAK WARNING" enabled_by_default="true" field_visibility="private" method_visibility="private" const_visibility="private">
+      <option name="CLASS" value="false" />
+      <option name="FUNCTION" value="false" />
+      <option name="MAGIC_METHOD" value="false" />
+    </inspection_tool>
+  </profile>
+</component>
