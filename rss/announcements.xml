@@ -11,14 +11,14 @@
 <item>
     <title>WordPress Release Notes</title>
     <link>https://sites.georgetown.edu/release-notes/</link>
-    <date>Thu, 27 Feb 17:56:00 EDT</date>
+    <date>Thu, 27 Feb 2020 17:56:00 EDT</date>
     <description><![CDATA[<p>Release Notes are updates from Web Services about the new features, updated features, enhancements and bug fixes we’ve been working on recently. We have two sources of release notes, depending on the theme you are using. These archives are organized by date and will be updated as we work on new things.</p> <p><a href="https://sites.georgetown.edu/release-notes/">Whitehaven Nu Release Notes</a> | <a href="https://sites.georgetown.edu/1789-documentation/tag/release-notes/">1789 Release Notes</a></p> <p>Keep an eye on this area to stay up to date with the most recent updates to the WordPress platform.</p>]]></description>
   </item>
    
      <item>
     <title>Online WordPress Training</title>
     <link>https://sites.georgetown.edu/guidelines-tools/online-wordpress-training/</link>
-    <date>Tue, 26 Feb 17:56:00 EDT</date>
+    <date>Tue, 26 Feb 2020 17:56:00 EDT</date>
     <description>
       <![CDATA[
       <p>To sign up, <a href="https://canvas.georgetown.edu/">log into Canvas</a> (if you've taken a Web Services online course previously) or fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScZcBCD7gtEEEPvqnzx3-LP9smJnIuss8Pb7-MyMTuYXaqaGQ/viewform">the registration form</a> (if you've never taken one of our online courses).</p>
@@ -29,7 +29,7 @@
       <item>
       <title>Office hours every Tuesday!</title>
       <link>https://calendar.google.com/calendar/u/0/appointments/AcZssZ2TdVMFmL6JsSKHIOQwD5p4d97IIPaqmmWUJFQ=</link>
-      <date>Tue, 26 Feb 17:56:00 EDT</date>
+      <date>Tue, 26 Feb 2020 17:56:00 EDT</date>
       <description>
         <![CDATA[
         <p>Web Services hosts WordPress-specific office hours every Tuesday, 2:30-3:30pm. <a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ2TdVMFmL6JsSKHIOQwD5p4d97IIPaqmmWUJFQ=">Sign up for an appointment slot here</a> (in the Description field, add a few things you want to chat about and what page(s) you want to discuss). All appointments will be on Zoom. We’ll be on hand to chat about migration, best practices, layouts, or anything else you'd like to discuss regarding your Georgetown WordPress website. In addition, we offer <a href="https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUMtNklFalEtOXdlfGRlZmF1bHR8MTU3NzlhZjBmM2NhZjEwOWJlZjAxMGFiMTlkM2FiNDA">accessibility office hours</a> where you can discuss your accessibility-related questions See you there!</p>
@@ -40,7 +40,7 @@
         <item>
       <title>Getting help with WordPress</title>
       <link>https://sites.georgetown.edu/</link>
-      <date>Thu, 3 Jan 12:37:30 EDT</date>
+      <date>Thu, 3 Jan 2019 12:37:30 EDT</date>
       <description>
         <![CDATA[
         <p>Getting started with our WordPress platform at Georgetown? Or have a specific question? Take a look at our <a href="https://sites.georgetown.edu/">documentation site</a> for best practices and editing help. We also have a handy monthly newsletter &mdash; <em>The Cache</em> with tips and tricks. <a href="https://sites.georgetown.edu/updates/the-cache/">See our archive and signup!</a></p>
@@ -51,7 +51,7 @@
     <item>
       <title>Report an issue with our WordPress platform!</title>
       <link>https://docs.google.com/forms/d/e/1FAIpQLScn93LePDSvd_DjuFtiiSKl6tZiJSYKU02oGMyOsMjEk7FP7w/viewform</link>
-      <date>Thu, 3 Jan 12:37:00 EDT</date>
+      <date>Thu, 3 Jan 2019 12:37:00 EDT</date>
       <description>
         <![CDATA[
         <p>Have you encountered an issue while working on your site? Fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScn93LePDSvd_DjuFtiiSKl6tZiJSYKU02oGMyOsMjEk7FP7w/viewform">Google Form</a> and we'll investigate.</p>
