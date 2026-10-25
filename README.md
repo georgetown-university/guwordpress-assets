@@ -18,7 +18,7 @@ Each item in an RSS feed has the following structure:
 <item>
   <title>TITLE GOES HERE</title>
   <link>https://uis.georgetown.edu</link>
-  <date>Tue, 31 Jul 2018 01:01:01 EDT</pubDate>
+  <date>Tue, 31 Jul 2018 01:01:01 EDT</date>
   <description>
     <![CDATA[
       CONTENT GOES HERE. <em>HTML OPTIONAL.</em>
